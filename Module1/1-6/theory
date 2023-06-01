@@ -1,1 +1,21 @@
 
+JDK -Java Development Kit - Compiler
+JRE -Java Runtime Environment-System Library 
+JVM - Java Virtual Machine
+========================================================================
+1)JDk Download - https://www.techspot.com/downloads/5198-java-jre.html
+2)JDK Install
+3)JDk Path Set
+4)Path : C:\Program Files\Java\jdk1.8.0_191\bin
+
+This Pc->Right Click -> Properties-> Advanced System Settings->Environment Variables ->Path->Edit ->Paste yout Path ->Click on OK
+
+Open your CMD ->type javac
+
+
+==========================================================================
+
+Eclipse-Editor-https://www.eclipse.org/downloads/ -> Java EE Developers
+
+
+==========================================================================
