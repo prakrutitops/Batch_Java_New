@@ -1,0 +1,38 @@
+void - return type - null value
+main - method name
+
+Access Specifier/Modifier:
+public-
+private-
+protected-
+
+
+static - fix 
+
+Data Type Description:
+int -numeric
+float - decimal - 4byte
+character - single character-''
+double- decimal - 8 byte
+boolean-true,false
+long-int lengthy value
+String -""
+
+
+int
+Integer-Wrapper Class
+
+
+Conditional statement:
+
+If-else
+
+Nested If
+
+if->execute every condition
+else if->only execute if previous conditions are not executed
+
+1
+2
+3
+4
