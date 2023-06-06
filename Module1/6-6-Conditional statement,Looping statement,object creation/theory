@@ -1,0 +1,46 @@
+conditional statement:
+
+switch,case,break
+
+Loop: Repeat
+
+Entry Control loop:
+1)for loop:
+	for(initialization;condition;incre/decre)
+	{
+		statement
+	}
+
+initialization = starting point
+condition = check values
+
+2)while loop:
+initialization;
+
+while(condition)
+{
+	print
+	incre/decre;
+}
+
+
+
+
+Exit Control loop
+3)do while loop:
+initialization;
+
+do
+{
+print
+	incre/decre;
+}
+while(condition);
+
+User Input - Scanner
+
+Object:value store
+
+
+
+
