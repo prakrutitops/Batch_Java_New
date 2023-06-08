@@ -1,0 +1,10 @@
+object 
+
+classname objname = new classname();
+
+constructor->method having a same as a classname
+
+types of constructor:
+1)default -> There are no arguments or parameters
+2)parameterized -> There are arguments or parameters
+3)copy -> 
