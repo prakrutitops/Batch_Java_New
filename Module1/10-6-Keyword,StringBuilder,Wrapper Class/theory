@@ -1,0 +1,19 @@
+keywords:
+this ->refrence keyword
+
+static->
+
+final
+super
+
+Static : Fixed
+
+1)Variable -> Everytime Use same memory allocation
+2)Method ->  You can call method without creating object
+3)Block -> Execute before main method
+
+StringBuilder -> Immutable ->Can not change
+StringBuffer  ->Mutable ->Can Change
+
+
+
