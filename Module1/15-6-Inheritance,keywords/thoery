@@ -1,0 +1,32 @@
+Inheritance:When one object acquire all the properties and behaviour 
+of parent class
+
+parent - super - base
+child  - sub   - derived
+
+Types Of Inheritance:
+1)Single
+2)Multilevel
+3)Multiple - Diamond problem-> we can not inherit multiple class simutaneously in java
+
+4)Hierarchical
+5)Hybrid
+
+
+
+interface -> collection of abstract methods
+abstract method ->methods which does not have a body part
+
+
+void a()
+
+class    		interface
+body part		not body part
+
+super->refer parent class variable
+
+final
+1)variable
+2)method
+3)class
+
