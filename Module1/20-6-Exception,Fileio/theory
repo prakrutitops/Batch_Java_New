@@ -1,0 +1,29 @@
+Exception Handling:Errors
+
+Keywords:
+1)try
+2)catch
+3)throw
+4)throws
+5)finally
+
+File Create -> 
+
+FileOutputStream ->write
+FileInputStream ->read
+
+We can handle exeception using 3 ways
+
+either we can use multiple catch block
+or we can use try-catch inside try-catch
+or we can directly use Exception Parent class
+=====================================================
+GUI ->  Graphical user interface
+Tool -> Window Builder Tool
+
+Swing->Latest
+AWT->Abstract Window Toolkit
+JComponents=> JFrame,JLabel,JButton,JTextField,JPasswordField,
+JTable,JList,JOptionpane,JBuilder,JDropDown,JComboBox,JCheckbox,
+JradioButton
+
