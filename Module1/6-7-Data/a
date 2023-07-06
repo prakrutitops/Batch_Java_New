@@ -1,1 +1,22 @@
 
+1)object: Any Entity which has own state and behaviour that is called an object
+ex: pen,paper etc..
+
+2)class: Collection of objects that is called class
+ex:Human body
+
+3)Abstraction: Hiding internal details and showing functionalities
+ex:Login Page
+
+4)Encapsulation: Wrapping up of data or binding data
+ex:capsule
+
+5)Inheritance:When One Object Acquire all the properties and behaviour of parent class
+ex:father-son
+
+6)Polymorphism:Many ways to perform anything
+
+final
+finally
+finalize
+
