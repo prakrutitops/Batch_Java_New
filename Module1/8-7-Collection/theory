@@ -1,0 +1,28 @@
+Collection : Class+Interface+Methods
+
+1)List:[Interface]
+ArrayList[Class]
+LinkedList[Class]
+
+add
+addAll
+remove
+removeAll
+retainAll
+
+
+2)Set:[Interface] =>Duplicate value remove
+HashSet[Class]
+LinkedHashset[Class]
+
+3)Map:[Interface]
+HashMap[Class]
+
+=========================================
+
+Vector
+Stack
+
+==========================================
+int marks[]=new int[5];
+ArrayList>
