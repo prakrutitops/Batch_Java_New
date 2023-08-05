@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<script type="text/javascript">
+
+	function notEmpty(elem,helpermsg)
+	{
+
+		if(elem.value.length == 0)
+		{
+			alert(helpermsg);
+			elem.focus();
+
+			return false;
+		
+		}
+	
+
+		return true;
+		
+	}
+
+</script>
+
+</head>
+<body>
+
+
+<form>
+	Required Field: <input type='text' id='req1'/>
+<input type='button' onclick="notEmpty(document.getElementById('req1'), 'Please Enter a Value')" value='Check Field' />
+</form>
+
+</body>
+</html>

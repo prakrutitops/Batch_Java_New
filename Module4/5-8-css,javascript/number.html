@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<script type="text/javascript">
+
+	function checknumber(elem,helpermsg)
+	{
+
+		var numExp = /^[0-9]+$/;
+
+		if(elem.value.match(numExp))
+		{
+			return true;
+		}
+		else
+		{
+			alert(helpermsg);
+			elem.focus();
+			return false;
+		}
+	
+
+		
+		
+	}
+
+</script>
+
+</head>
+<body>
+
+
+<form>
+	Required Field: <input type='text' id='req1'/>
+<input type='button' onclick="checknumber(document.getElementById('req1'), 'Please Enter a Number Only')" value='Check Field' />
+</form>
+
+</body>
+</html>

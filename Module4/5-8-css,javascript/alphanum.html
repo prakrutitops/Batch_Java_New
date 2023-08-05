@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<script type="text/javascript">
+
+	function alphanum(elem,helpermsg)
+	{
+
+		var alphanumex = /^[a-zA-Z0-9]+$/;
+
+		if(elem.value.match(alphanumex))
+		{
+			return true;
+		}
+		else
+		{
+			alert(helpermsg);
+			elem.focus();
+			return false;
+		}
+	
+
+		
+		
+	}
+
+</script>
+
+</head>
+<body>
+
+
+<form>
+	Required Field: <input type='text' id='req1'/>
+<input type='button' onclick="alphanum(document.getElementById('req1'), 'Please Enter alphabet and numbers')" value='Check Field' />
+</form>
+
+</body>
+</html>
