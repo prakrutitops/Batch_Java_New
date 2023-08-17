@@ -1,0 +1,21 @@
+JSP : Java Server Pages
+
+JSP Tags:
+
+1)Scriptlet Tag
+	<%
+		java source code
+	%>
+
+2)Expression Tag
+
+	<%=print anything%>
+
+3)Declaration Tag
+
+	<%!
+		function call
+	%>
+
+Jsp Implicit Object:
+Jsp Action Tags:
