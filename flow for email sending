@@ -1,0 +1,20 @@
+Email->Print->Not Editable
+Mobile Number->
+Name->
+Address->Your Address
+Postal code->
+Delivery Suggestion->
+
+Submit
+
+Thread.sleep(5000);
+Email Sending
+
+hidden
+Recipent address->Email
+Subject->Order Placed
+Content->Product Name,Product Price is succesfully placed
+
+Submit code
+
+
